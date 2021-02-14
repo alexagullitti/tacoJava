@@ -1,11 +1,11 @@
 # tacoJava
 
---intro-- I spent around 5 hours to complete this project. Between research(3hr), coding(2hr) and uploading/documenting(30min). I had originally completed the coding challenge in C# and I am slightly bummed because I think that application is better. I was having trouble connecting to the sql database in java, I was using mySQL workbench. I wasn't able to export or copy the db file, so I made a file with the create statement for the table. 
+--intro-- I spent around 5 hours to complete this project. Between research(3hr), coding(2hr) and uploading/documenting(30min). I had originally completed the coding challenge in C# and I am slightly bummed because I think that application is better and passed all the tests! I was having trouble connecting to the sql database in java, I was using mySQL workbench. I wasn't able to export or copy the db file, so I made a file with the create statement for the table. The search all button does not work as expected, unforntunately I ran out of time this week and wanted to turn in what I had. 
 
 Once you create the database with whichever sql database IDE you chose, you can adjust this string throuhgout the project and it should connect.
 Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/tacoDB");
 
-While my Java is a little rusty, I have almost 4 years of OOP and relational database experience. I know my technical skills can be converted into whatever language is need!
+While my Java is a little rusty, I have almost 4 years of OOP and relational database experience. I know my technical skills can be converted into whatever language is needed. Thank you for taking the time to look through this project!
 
 --how to use--
 
